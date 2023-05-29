@@ -1,5 +1,5 @@
-﻿using Newtonsoft.Json;
-using RestAssured_CSharp_Specflow_AutomationFramework.DataModels;
+﻿using HttpClient_CSharp_Specflow_AutomationFramework.DataModels;
+using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -7,10 +7,11 @@ using System.Security.Policy;
 using System.Text;
 using System.Text.Json.Serialization;
 using System.Threading.Tasks;
+
 using System.Xml.Linq;
 using TechTalk.SpecFlow.Infrastructure;
 
-namespace RestAssured_CSharp_Specflow_AutomationFramework.StepDefinitions
+namespace HttpClient_CSharp_Specflow_AutomationFramework.StepDefinitions
 {
     [Binding]
     public sealed class RequestResponseStepDefinations

@@ -10,7 +10,7 @@
 // ------------------------------------------------------------------------------
 #region Designer generated code
 #pragma warning disable
-namespace RestAssured_CSharp_Specflow_AutomationFramework.Features
+namespace HttpClient_CSharp_Specflow_AutomationFramework.Features
 {
     using TechTalk.SpecFlow;
     using System;
@@ -31,7 +31,7 @@ namespace RestAssured_CSharp_Specflow_AutomationFramework.Features
 #line 1 "RequestResponse.feature"
 #line hidden
         
-        public RequestResponseFeature(RequestResponseFeature.FixtureData fixtureData, RestAssured_CSharp_Specflow_AutomationFramework_XUnitAssemblyFixture assemblyFixture, Xunit.Abstractions.ITestOutputHelper testOutputHelper)
+        public RequestResponseFeature(RequestResponseFeature.FixtureData fixtureData, HttpClient_CSharp_Specflow_AutomationFramework_XUnitAssemblyFixture assemblyFixture, Xunit.Abstractions.ITestOutputHelper testOutputHelper)
         {
             this._testOutputHelper = testOutputHelper;
             this.TestInitialize();

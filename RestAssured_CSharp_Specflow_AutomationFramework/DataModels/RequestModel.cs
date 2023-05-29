@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace RestAssured_CSharp_Specflow_AutomationFramework.DataModels
+namespace HttpClient_CSharp_Specflow_AutomationFramework.DataModels
 {
     public class RequestModel
     {
